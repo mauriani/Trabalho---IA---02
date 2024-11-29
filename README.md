@@ -34,10 +34,13 @@ acessadas no repositório: https://github.com/incribo-inc/cybersecurity_attacks.
 [] a) Faça as análises e alterações necessárias na base de dados para predizer a variável Severity
 Level. Verifique se a base de dados possui valores faltantes ou outliers. Caso existam, explique
 as considerações e mudanças propostas.
+
 [] b) Faça um HeatMap correlacionando o número de ataques em cada dia da semana e a cada
 ano. Explique os resultados obtidos.
+
 [] c) Divida aleatoriamente a base de dados em duas partes: treino, com 70% das amostras, e teste,
 com 30%. Faça a classificação dos dados utilizando uma Rede Neural. Você deverá testar 3
 topologias diferentes (números de camadas, neurônios, dropout, etc.) e explicar o porquê da
 escolha de cada uma.
+
 [] d) Compare os resultados obtidos. O que você pode concluir?
